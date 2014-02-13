@@ -87,12 +87,16 @@ So not only does Scrypt-Jane offer a far greater network security, mining effici
 Download
 Source Github
 https://github.com/Velocitycoin/velocitycoin
-
 Windows QT
 Official Download
 Mirror
+
+If you do not use the windows installer you will need to create a config file. Once you have started the Velocitycoin client, navigate to appdata/roaming/velocitycoin and add this config file (Download) and edit your username and password. That will be used for solo mining. Restart the client.
 Windows Installer
 Official Download
+
+Once you have downloaded  the Velocitycoin client, navigate to appdata/roaming/velocitycoin and change the  config file and edit your username and password. That will be used for solo mining. Start the client.
+
 Velocitycoin uses a custom GPU miner. CGMiner will not work
 GPU Miner
 Official Download
