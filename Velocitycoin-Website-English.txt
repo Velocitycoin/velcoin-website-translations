@@ -73,7 +73,7 @@ Velocitycoin is a alternate cryptocurrency that offers quick block times, confir
   
  Scrypt-Jane uses an N-Factor (N, 1, 1), that number determines the amount of memory required to solve a share. This N-Factor number will increase over time, usually at regular intervals in the blockchain. As the N-Factor number increases, the mining efficiency will become lower, as the amount of memory needed for each share is increased. The current N-Factor can be shown by typing getmininginfo into the console. This also displays the current amount of memory needed.
 
-Scypt-Jane was  intended to be mined on CPU’s only though that was soon eroded by custom GPU miners. Though these miners are an advantage in the beginning, they soon become less effective as the N-Factor increases, increasing memory making GPU mining less efficient.
+Scypt-Jane was  intended to be mined on CPUï¿½s only though that was soon eroded by custom GPU miners. Though these miners are an advantage in the beginning, they soon become less effective as the N-Factor increases, increasing memory making GPU mining less efficient.
  
 So not only does Scrypt-Jane offer a far greater network security, mining efficiency, ASIC resistance and protection. Is it just out right unique. Resistance against ASIC and GPU farms allows CPU and GPU mining, resulting in a network that available for all users
 
@@ -212,6 +212,8 @@ Facebook
 https://facebook.com/velocitycoin
 
 
+Get Mobile
+Stay informed with our Velocitycoin apps.
 
 
 
