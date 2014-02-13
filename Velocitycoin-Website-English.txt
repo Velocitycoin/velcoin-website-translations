@@ -131,6 +131,36 @@ minerd64-sse3 -a scrypt-jane -o poolstratumandport  -u poolworkername -p poolpas
 
 
 
+Apps
+Velocitycoin Information App
+
+Find out the latest information and easy links to all the latest Velocitycoin services and features.
+ Download Now For
+Android
+iOS
+Windows
+Blackberry (Coming Soon)
+Velocitycoin App
+Velocitycoin Shooter
+
+
+
+
+
+Games
+
+FlappyCoin
+Download Flappy Coin Now For Windows
+http://velocitycoin.com/games/FlappyCoin.rar
+
+Installer
+(Coming Soon)
+
+Download and extract the FlappyCoin.rar file.
+
+Double Click the FlappyCoin.exe. Press start to play and click your mouse to flap.
+
+
 
 
 
