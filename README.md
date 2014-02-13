@@ -23,12 +23,13 @@ Windows Guide to Using Github to Add Commits
 3. Start the github client and log in under options.
 4. Navigate to https://github.com/Velocitycoin/velcoin-website-translations and in the top right hand corner press fork.
 5. You will now have this reposity to edit in your account.
-6. On your newly created repository click clone in desktop. You will now have the website files inn your documents/github folder.
+6. On your newly created repository click clone in desktop. You will now have the website files in your documents/github folder.
 7. Navigate to your /douments/github/velcoin-website-translations folder and copy the Velocitycoin-Website-English.txt and change it to the name of the language you are wanting to translate to. Put this in your github/velcoin-website-translations folder. e.g douments/github/velcoin-website-translations/Velocitycoin-Website-french.txt
 8. Add the translation after each line to avoid confusion between laguages
 9. Save the file.
 10. Once completed click the pull requests button and request that the files be committed to the master. 
 11. Files can also be sent to user Velocitycoin at https://bitcointalk.org/index.php?action=profile;u=200193
+12. Our team will then translate and update the websites.
 
 
 
