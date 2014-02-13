@@ -255,7 +255,7 @@ Stay informed with our Velocitycoin apps.
 
 
 Media
-
+<iframe width="480" height="360" src="//www.youtube.com/embed/nV11wijTK0k" frameborder="0" allowfullscreen></iframe><br>
 <iframe width="640" height="360" src="//www.youtube.com/embed/ok7SbEEnKPE" frameborder="0" allowfullscreen></iframe><br>
 <iframe width="640" height="360" src="//www.youtube.com/embed/_u8Q2PyKlWc" frameborder="0" allowfullscreen></iframe><br>
 <iframe width="640" height="360" src="//www.youtube.com/embed/HscPsB-FtYk" frameborder="0" allowfullscreen></iframe><br>
